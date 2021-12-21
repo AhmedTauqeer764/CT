@@ -1,2 +1,1 @@
-# typingtest
-This is a simple but efficent typing test made by me.
+A simple but aesthetically looking good typing test by Ahmed Tauqeer. He designs code as his hobby!
